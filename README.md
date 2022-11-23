@@ -1,4 +1,4 @@
- **Tugas Praktikum
+ **Tugas Praktikum**
 
 Buat program sederhana untuk menambahkan data kedalam sebuah
 list dengan rincian sebagai berikut:
@@ -15,7 +15,7 @@ uts: 35%, uas: 35%)
 
 ![Screenshot (12)](https://user-images.githubusercontent.com/115677959/203574287-bab3c140-d02e-463c-a558-4f5a43eda8a8.png)
 
- **Hasil RUN
+ **Hasil RUN**
 
 ![Screenshot (10)](https://user-images.githubusercontent.com/115677959/203574568-3a07968a-2a3b-40ef-b65e-560f6a056e8a.png)
 
